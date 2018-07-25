@@ -1,0 +1,12 @@
+﻿.intro {
+	display: table;
+	width: 100%;
+	padding: 0;
+    height: auto;
+	background: url(../img/background3.jpg) no-repeat bottom center scroll;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
